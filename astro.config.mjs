@@ -3,6 +3,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://yoanbernabeu.github.io/PrepaVideoCV/',
+  site: 'https://yoanbernabeu.github.io',
+  base: 'PrepaVideoCV',
+  trailingSlash: true,
   integrations: [tailwind()],
 });
