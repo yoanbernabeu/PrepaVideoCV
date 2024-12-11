@@ -561,7 +561,9 @@
       "highlights": [
         "Approche pratique par projets",
         "Couverture des nouveautés de Symfony 7"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyPDF",
@@ -570,7 +572,9 @@
       "highlights": [
         "Facilite la création de templates PDF",
         "API flexible"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "FarmPilot (SaaS)",
@@ -579,7 +583,9 @@
       "highlights": [
         "Backend Symfony",
         "Intégration Supabase, Postgres"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyCopro",
@@ -588,7 +594,9 @@
       "highlights": [
         "Information centralisée",
         "Notifications événements"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyAnnonce",
@@ -597,7 +605,9 @@
       "highlights": [
         "Symfony, Postgres, API Ubiflow",
         "Gestion des critères de recherche et notifications"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyDiag",
@@ -606,7 +616,9 @@
       "highlights": [
         "Symfony Full Stack, Docker",
         "Intégration d'APIs de diagnostiqueurs"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyHab",
@@ -615,7 +627,9 @@
       "highlights": [
         "Centralisation des habilitations",
         "Intégration MS Graph"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyInfra",
@@ -624,7 +638,9 @@
       "highlights": [
         "Symfony Full Stack, PicoCSS, Trivy, Docker, Jelastic",
         "Gestion simplifiée des environnements cloud"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "Cronify",
@@ -633,7 +649,9 @@
       "highlights": [
         "Surveillance des cron jobs",
         "Disponible sur GitHub"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "Roadmap Dev Symfony",
@@ -642,7 +660,9 @@
       "highlights": [
         "Roadmap complète",
         "Accessible sur GitHub"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "Airtable Client Bundle",
@@ -651,7 +671,9 @@
       "highlights": [
         "Intégration aisée de l'API Airtable",
         "Projet open source sur GitHub"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyStockMe",
@@ -660,7 +682,9 @@
       "highlights": [
         "Gestion complète du cycle de vie des assets",
         "Déploiement Docker"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "SOSapp",
@@ -669,7 +693,9 @@
       "highlights": [
         "Sécurité et prévention au travail",
         "Intégration SSO Office 365"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "VibrantVisionsAI",
@@ -678,7 +704,9 @@
       "highlights": [
         "Génération d'images IA",
         "Astro / Tailwind CSS"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "Enter to the Matrix (with Symfony Console)",
@@ -687,7 +715,9 @@
       "highlights": [
         "Effet visuel immersif en console",
         "Exemple d'utilisation avancée de Symfony Console"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "AlloHouston (IWS ISILOG)",
@@ -696,7 +726,9 @@
       "highlights": [
         "Gestion centralisée des demandes",
         "Intégration avec IWS ISILOG"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "Formation : CI/CD pour les Devs (PHP) avec GitLab CI et GitHub Actions !",
@@ -705,7 +737,9 @@
       "highlights": [
         "CI/CD pour projets PHP",
         "GitLab CI / GitHub Actions"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "Formation : Un environnement de travail Symfony avec Linux et Docker",
@@ -714,7 +748,9 @@
       "highlights": [
         "Configuration rapide",
         "Productivité accrue"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "GoJelastic",
@@ -723,7 +759,9 @@
       "highlights": [
         "Outil CLI en Go",
         "Intégration facilitée en CI/CD"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     },
     {
       "name": "HapplyFluide",
@@ -732,7 +770,9 @@
       "highlights": [
         "Gestion avancée des fluides",
         "Symfony + Postgres"
-      ]
+      ],
+      "url": "https://yoandev.co",
+      "github": "https://github.com/yoanbernabeu"
     }
   ]
 }
