@@ -5,6 +5,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: 'https://yoanbernabeu.github.io',
   base: 'PrepaVideoCV',
-  trailingSlash: true,
   integrations: [tailwind()],
 });
